@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors from web app -->
+    <color name="primary">#0275DE</color>
+    <color name="primary_dark">#0158B0</color>
+    <color name="primary_light">#4A9FE8</color>
+    
+    <!-- Background colors -->
+    <color name="background_light">#EAEEF9</color>
+    <color name="background_dark">#252732</color>
+    
+    <!-- Text colors -->
+    <color name="text_primary">#000000</color>
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_secondary_dark">#CCCCCC</color>
+    
+    <!-- Material Design 3 colors -->
+    <color name="md_theme_light_primary">#0275DE</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_secondary">#4A9FE8</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_background">#EAEEF9</color>
+    <color name="md_theme_light_onBackground">#000000</color>
+    <color name="md_theme_light_surface">#FFFFFF</color>
+    <color name="md_theme_light_onSurface">#000000</color>
+    
+    <color name="md_theme_dark_primary">#4A9FE8</color>
+    <color name="md_theme_dark_onPrimary">#000000</color>
+    <color name="md_theme_dark_secondary">#0275DE</color>
+    <color name="md_theme_dark_onSecondary">#FFFFFF</color>
+    <color name="md_theme_dark_background">#252732</color>
+    <color name="md_theme_dark_onBackground">#FFFFFF</color>
+    <color name="md_theme_dark_surface">#2D3140</color>
+    <color name="md_theme_dark_onSurface">#FFFFFF</color>
+</resources>
+

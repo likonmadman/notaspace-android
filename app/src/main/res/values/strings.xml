@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotaSpace</string>
+    
+    <!-- Auth -->
+    <string name="login">Вход</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="phone">Телефон</string>
+    <string name="code">Код</string>
+    <string name="logout">Выход</string>
+    
+    <!-- Navigation -->
+    <string name="pages">Страницы</string>
+    <string name="tasks">Задачи</string>
+    <string name="profile">Профиль</string>
+    
+    <!-- Errors -->
+    <string name="error_network">Ошибка сети</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
+    <string name="error_invalid_credentials">Неверный email или пароль</string>
+</resources>
+
