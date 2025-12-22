@@ -11,4 +11,3 @@ data class ApiErrorResponse(
     @SerializedName("error")
     val error: String?
 )
-

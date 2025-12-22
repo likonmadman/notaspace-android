@@ -96,9 +96,3 @@ class NotificationViewModel @Inject constructor(
         _errorMessage.value = null
     }
 }
-
-
-
-
-
-

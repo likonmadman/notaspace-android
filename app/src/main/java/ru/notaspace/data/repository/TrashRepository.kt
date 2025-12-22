@@ -18,9 +18,3 @@ class TrashRepository @Inject constructor(
     
     suspend fun delete(type: String, id: String) = apiService.deleteFromTrash(type, id)
 }
-
-
-
-
-
-

@@ -97,9 +97,3 @@ data class PaginationMeta(
     @SerializedName("total")
     val total: Int?
 )
-
-
-
-
-
-

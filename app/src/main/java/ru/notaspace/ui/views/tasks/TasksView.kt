@@ -134,4 +134,3 @@ fun TaskItem(task: ru.notaspace.data.models.Task) {
         }
     }
 }
-

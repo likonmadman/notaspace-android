@@ -9,9 +9,3 @@ data class SearchResponse(
     @SerializedName("data")
     val pages: List<Page>
 )
-
-
-
-
-
-

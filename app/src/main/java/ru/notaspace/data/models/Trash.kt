@@ -27,9 +27,3 @@ data class TrashItem(
     @SerializedName("deleted_at")
     val deletedAt: String?
 )
-
-
-
-
-
-

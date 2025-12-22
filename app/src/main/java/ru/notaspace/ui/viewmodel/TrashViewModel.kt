@@ -84,9 +84,3 @@ class TrashViewModel @Inject constructor(
         _errorMessage.value = null
     }
 }
-
-
-
-
-
-

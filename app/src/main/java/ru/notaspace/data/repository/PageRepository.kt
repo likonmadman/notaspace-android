@@ -39,9 +39,3 @@ class PageRepository @Inject constructor(
         return apiService.searchPages(SearchRequest(query))
     }
 }
-
-
-
-
-
-

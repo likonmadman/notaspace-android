@@ -13,4 +13,3 @@ object NotaSpaceColors {
     val BackgroundLight = Color(0xFFEAEEF9)
     val BackgroundDark = Color(0xFF252732)
 }
-

@@ -25,9 +25,3 @@ class NotificationRepository @Inject constructor(
     
     suspend fun deleteNotification(id: Int) = apiService.deleteNotification(id)
 }
-
-
-
-
-
-

@@ -67,4 +67,3 @@ fun NotaSpaceTheme(
         content = content
     )
 }
-

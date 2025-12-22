@@ -9,4 +9,3 @@ import dagger.hilt.android.HiltAndroidApp
  */
 @HiltAndroidApp
 class NotaSpaceApplication : Application()
-

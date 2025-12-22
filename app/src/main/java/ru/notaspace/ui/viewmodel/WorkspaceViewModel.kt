@@ -82,9 +82,3 @@ class WorkspaceViewModel @Inject constructor(
         _errorMessage.value = null
     }
 }
-
-
-
-
-
-

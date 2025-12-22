@@ -17,9 +17,3 @@ data class Workspace(
     @SerializedName("updated_at")
     val updatedAt: String?
 )
-
-
-
-
-
-

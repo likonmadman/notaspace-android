@@ -47,4 +47,3 @@ data class FileResource(
     @SerializedName("preview_url")
     val previewUrl: String?
 )
-

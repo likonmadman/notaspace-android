@@ -11,4 +11,3 @@ data class AuthResponse(
     @SerializedName("user")
     val user: User
 )
-

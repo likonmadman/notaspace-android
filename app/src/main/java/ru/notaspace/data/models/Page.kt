@@ -39,9 +39,3 @@ data class PageBlock(
     @SerializedName("order")
     val order: Int?
 )
-
-
-
-
-
-

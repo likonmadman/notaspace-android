@@ -66,4 +66,3 @@ class AuthRepository @Inject constructor(
         return tokenManager.getTokenSync() != null
     }
 }
-

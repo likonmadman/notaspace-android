@@ -24,9 +24,3 @@ class WorkspaceRepository @Inject constructor(
     }
     suspend fun deleteWorkspace(uuid: String) = apiService.deleteWorkspace(uuid)
 }
-
-
-
-
-
-
