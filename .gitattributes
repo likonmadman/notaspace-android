@@ -1,0 +1,17 @@
+# Устанавливаем единые окончания строк для всех файлов
+* text=auto eol=lf
+
+# Kotlin файлы
+*.kt text eol=lf
+
+# Gradle файлы
+*.gradle text eol=lf
+*.properties text eol=lf
+
+# XML файлы
+*.xml text eol=lf
+
+# Прочие текстовые файлы
+*.md text eol=lf
+*.txt text eol=lf
+
